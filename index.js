@@ -69,7 +69,7 @@ class Slaves {
     // slave_list
     // args: {id:int}
     async slave_list(args) {
-        return await this.call("slave_list", {
+        return await this.call("slaveList", {
             params: args
         })
     }
