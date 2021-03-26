@@ -1,0 +1,25 @@
+{
+  "name": "vk-slaves-js",
+  "version": "1.0.0",
+  "description": "wrapped methods for vk mini app \"slaves\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronnyevans/vk-slaves-js.git"
+  },
+  "keywords": [
+    "vk"
+  ],
+  "author": "ronnyevans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronnyevans/vk-slaves-js/issues"
+  },
+  "homepage": "https://github.com/ronnyevans/vk-slaves-js#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
