@@ -1,6 +1,6 @@
 {
   "name": "vk-slaves-js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "wrapped methods for vk mini app \"slaves\"",
   "main": "index.js",
   "scripts": {

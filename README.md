@@ -27,10 +27,4 @@ start()
 ```
 
 ## Методы
-```javascript
-// /start
-myaccount.start()
-
-// /user
-myaccount.user({id:int})
-```
+Методы вы можете найти в файле ```index.js```

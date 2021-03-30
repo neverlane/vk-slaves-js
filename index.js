@@ -34,7 +34,6 @@ class Slaves {
         }
 
         let req_method = params && params.body ? "POST" : "GET";
-        console.log(params.body,req_method)
         
         const res = await axios({
             method: req_method,
